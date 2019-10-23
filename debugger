@@ -7,4 +7,8 @@ f8 - to go next function/method
 f5 - to go inside that function
 
 f7 - to get out from that function
+--------------------------------------
+UI CODE DEBUG
+f10 to execute line by line or to go inside any conditional or functional block
 
+f11 to to next block of condition or function
